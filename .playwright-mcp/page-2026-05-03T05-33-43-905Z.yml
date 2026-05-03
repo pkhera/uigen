@@ -1,0 +1,56 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e52]:
+          - generic [ref=e53]:
+            - generic [ref=e56]: Create a user profile card with an avatar, name, job title, and a follow button
+            - img [ref=e59]
+          - generic [ref=e62]:
+            - img [ref=e65]
+            - generic [ref=e70]:
+              - generic [ref=e71]:
+                - img [ref=e72]
+                - generic [ref=e74]: Creating App.jsx
+              - separator [ref=e75]
+              - generic [ref=e76]:
+                - paragraph [ref=e77]: "Done! I've created a user profile card with:"
+                - list [ref=e78]:
+                  - listitem [ref=e79]:
+                    - strong [ref=e80]: Avatar
+                    - text: ": A circular gradient avatar with initials"
+                  - listitem [ref=e81]:
+                    - strong [ref=e82]: Name
+                    - text: ": \"Sarah Harrison\" displayed prominently"
+                  - listitem [ref=e83]:
+                    - strong [ref=e84]: Job Title
+                    - text: ": \"Product Designer\""
+                  - listitem [ref=e85]:
+                    - strong [ref=e86]: Bio
+                    - text: ": A brief description"
+                  - listitem [ref=e87]:
+                    - strong [ref=e88]: Follow Button
+                    - text: ": Toggle between \"Follow\" and \"Following\" states with different styling"
+                - paragraph [ref=e89]: The card has a polished design with a gradient header, centered layout, and smooth button state transitions. Click the button to toggle between follow/following states.
+        - generic [ref=e19]:
+          - textbox "Describe the React component you want to create..." [ref=e20]
+          - button [disabled] [ref=e21]:
+            - img [ref=e22]
+    - separator [ref=e25]
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - tablist [ref=e30]:
+          - tab "Preview" [selected] [ref=e31]
+          - tab "Code" [ref=e32]
+        - generic [ref=e33]:
+          - button "Sign In" [ref=e34]
+          - button "Sign Up" [ref=e35]
+      - iframe [ref=e90]:
+        - generic [ref=f11e6]:
+          - generic [ref=f11e8]: SH
+          - heading "Sarah Harrison" [level=2] [ref=f11e9]
+          - paragraph [ref=f11e10]: Product Designer
+          - paragraph [ref=f11e11]: Crafting intuitive experiences that users love. Coffee enthusiast and design explorer.
+          - button "Follow" [ref=f11e12] [cursor=pointer]
+  - alert [ref=e46]
